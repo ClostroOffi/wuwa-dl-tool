@@ -13,6 +13,6 @@ Start main.py, and you're good to go.
 
 ___
 
-This script is based on the one from [mrizkihidayat66](https://github.com/mrizkihidayat66/ww-resources-downloader). 
+This script is based on the one from [GauravM512](https://github.com/GauravM512/Wuthering-Waves-Downloader). 
 
 Feel free to check out their work!
