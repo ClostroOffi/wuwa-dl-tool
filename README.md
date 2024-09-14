@@ -13,6 +13,6 @@ Start main.py, and you're good to go.
 
 ___
 
-This script is based on the one from [qinfyy](https://github.com/qinfyy/WuWaDownloader). 
+This script is based on the one from [mrizkihidayat66](https://github.com/mrizkihidayat66/ww-resources-downloade). 
 
 Feel free to check out their work!
