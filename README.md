@@ -1,5 +1,5 @@
 # Wuthering Waves Download Tool
-A python script allowing you to download files from Wuthering Waves.
+A python script allowing you to download previous (and current) versions of Wuthering Waves.
 
 ___
 
